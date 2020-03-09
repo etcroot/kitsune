@@ -1,4 +1,4 @@
-![Kitsune](https://raw.githubusercontent.com/trashbxg/Ecchi/master/assets/kitsunegithub.png)
+![Kitsune](https://raw.githubusercontent.com/trashbxg/Ecchi/master/assets/img/kitsunegithub.png)
 
 # Coming Soon!
 
